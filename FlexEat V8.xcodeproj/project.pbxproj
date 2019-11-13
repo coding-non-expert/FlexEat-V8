@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		93457269237BA0220082F0F8 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93457268237BA0220082F0F8 /* ProfileViewController.swift */; };
+		9345726B237BAE9F0082F0F8 /* GoalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9345726A237BAE9F0082F0F8 /* GoalViewController.swift */; };
 		93DFB22F233B933500E29D46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DFB22E233B933500E29D46 /* AppDelegate.swift */; };
 		93DFB231233B933500E29D46 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DFB230233B933500E29D46 /* FirstViewController.swift */; };
 		93DFB233233B933500E29D46 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DFB232233B933500E29D46 /* SecondViewController.swift */; };
@@ -37,6 +38,7 @@
 
 /* Begin PBXFileReference section */
 		93457268237BA0220082F0F8 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
+		9345726A237BAE9F0082F0F8 /* GoalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalViewController.swift; sourceTree = "<group>"; };
 		93DFB22B233B933500E29D46 /* FlexEat V8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FlexEat V8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		93DFB22E233B933500E29D46 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		93DFB230233B933500E29D46 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				93DFB230233B933500E29D46 /* FirstViewController.swift */,
 				93DFB232233B933500E29D46 /* SecondViewController.swift */,
 				93DFB234233B933500E29D46 /* Main.storyboard */,
+				9345726A237BAE9F0082F0F8 /* GoalViewController.swift */,
 				93457268237BA0220082F0F8 /* ProfileViewController.swift */,
 				93DFB237233B933800E29D46 /* Assets.xcassets */,
 				93DFB239233B933800E29D46 /* LaunchScreen.storyboard */,
@@ -263,6 +266,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				93DFB233233B933500E29D46 /* SecondViewController.swift in Sources */,
+				9345726B237BAE9F0082F0F8 /* GoalViewController.swift in Sources */,
 				93DFB22F233B933500E29D46 /* AppDelegate.swift in Sources */,
 				93457269237BA0220082F0F8 /* ProfileViewController.swift in Sources */,
 				93DFB231233B933500E29D46 /* FirstViewController.swift in Sources */,
