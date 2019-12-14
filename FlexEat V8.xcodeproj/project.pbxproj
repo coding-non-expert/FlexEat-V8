@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93242350238CCD1400437F36 /* 3x60.png in Resources */ = {isa = PBXBuildFile; fileRef = 9324234F238CCD1400437F36 /* 3x60.png */; };
 		93457269237BA0220082F0F8 /* ProfileViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93457268237BA0220082F0F8 /* ProfileViewController.swift */; };
 		9345726B237BAE9F0082F0F8 /* GoalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9345726A237BAE9F0082F0F8 /* GoalViewController.swift */; };
 		93DFB22F233B933500E29D46 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 93DFB22E233B933500E29D46 /* AppDelegate.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9324234F238CCD1400437F36 /* 3x60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3x60.png; sourceTree = "<group>"; };
 		93457268237BA0220082F0F8 /* ProfileViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileViewController.swift; sourceTree = "<group>"; };
 		9345726A237BAE9F0082F0F8 /* GoalViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoalViewController.swift; sourceTree = "<group>"; };
 		93DFB22B233B933500E29D46 /* FlexEat V8.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "FlexEat V8.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -110,6 +112,7 @@
 				9345726A237BAE9F0082F0F8 /* GoalViewController.swift */,
 				93457268237BA0220082F0F8 /* ProfileViewController.swift */,
 				93DFB237233B933800E29D46 /* Assets.xcassets */,
+				9324234F238CCD1400437F36 /* 3x60.png */,
 				93DFB239233B933800E29D46 /* LaunchScreen.storyboard */,
 				93DFB23C233B933800E29D46 /* Info.plist */,
 			);
@@ -238,6 +241,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				93242350238CCD1400437F36 /* 3x60.png in Resources */,
 				93DFB23B233B933800E29D46 /* LaunchScreen.storyboard in Resources */,
 				93DFB238233B933800E29D46 /* Assets.xcassets in Resources */,
 				93DFB236233B933500E29D46 /* Main.storyboard in Resources */,
